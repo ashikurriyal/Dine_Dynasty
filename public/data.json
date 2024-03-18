@@ -1,0 +1,57 @@
+[
+    {
+      "recipe_id": "001",
+      "recipe_name": "Teriyaki Chicken",
+      "short_description": "Delicious and savory chicken marinated in soy sauce, perfect for a quick meal.",
+      "ingredients": ["550 g chicken", "120 ml soy sauce", "200 g basil leaf", "400 g mushroom"],
+      "preparing_time": "30 min",
+      "calories": "320 calories",
+      "recipe_image": "https://i.ibb.co/yN2sRWy/Teriyaki-Chicken.jpg"
+    },
+    {
+      "recipe_id": "002",
+      "recipe_name": "Caprese Salad",
+      "short_description": "A refreshing salad with ripe tomatoes, fresh mozzarella, and basil leaves drizzled with balsamic glaze.",
+      "ingredients": ["250 g cherry tomatoes", "200 g fresh mozzarella", "100 g fresh basil leaves", "2 tbsp balsamic glaze"],
+      "preparing_time": "15 min",
+      "calories": "180 calories",
+      "recipe_image": "https://i.ibb.co/VxLNPVY/Caprese-Salad.jpg"
+    },
+    {
+      "recipe_id": "003",
+      "recipe_name": "Mushroom Risotto",
+      "short_description": "Creamy and flavorful risotto cooked with mushrooms and Parmesan cheese.",
+      "ingredients": ["300 g Arborio rice", "400 g mushrooms", "1 liter vegetable broth", "100 g Parmesan cheese"],
+      "preparing_time": "45 min",
+      "calories": "380 calories",
+      "recipe_image": "https://i.ibb.co/wzgbGtx/Mushroom-Risotto.jpg"
+    },
+    {
+      "recipe_id": "004",
+      "recipe_name": "Grilled Salmon",
+      "short_description": "Juicy salmon fillets marinated in lemon and herbs, grilled to perfection.",
+      "ingredients": ["4 salmon fillets", "2 lemons", "2 tbsp olive oil", "2 cloves garlic", "Salt and pepper to taste"],
+      "preparing_time": "20 min",
+      "calories": "250 calories",
+      "recipe_image": "https://i.ibb.co/R2SNttM/Grilled-Salmon.jpg"
+    },
+    {
+      "recipe_id": "005",
+      "recipe_name": "Vegetable Stir-Fry",
+      "short_description": "Colorful medley of fresh vegetables stir-fried in a flavorful sauce.",
+      "ingredients": ["200 g broccoli", "150 g carrots", "100 g bell peppers", "150 g snow peas", "120 ml soy sauce"],
+      "preparing_time": "25 min",
+      "calories": "200 calories",
+      "recipe_image": "https://i.ibb.co/FVK7f8n/stir-fried-veggies-1.jpg"
+    },
+    {
+      "recipe_id": "006",
+      "recipe_name": "Banana Bread",
+      "short_description": "Moist and delicious banana bread loaded with ripe bananas and nuts.",
+      "ingredients": ["3 ripe bananas", "200 g all-purpose flour", "100 g chopped nuts", "2 eggs", "100 g sugar"],
+      "preparing_time": "60 min",
+      "calories": "220 calories",
+      "recipe_image": "https://i.ibb.co/qk1NZzy/Banana-Bread.jpg"
+    }
+  ]
+  
